@@ -54,3 +54,5 @@ dkms.conf
 # Other
 .vscode/
 build/
+sdkconfig.old
+sdkconfig-backup
